@@ -37,3 +37,7 @@ Choose one of three deliveries: climb the western ramp and terraces to the summi
 `npm run check` runs strict TypeScript. `npm test` runs behavioral simulation tests. `npm run build` checks types and builds production assets. CI runs all three on Node 22 and 24. See [research](docs/research.md), [scope/design](docs/design.md) and [verification](docs/verification.md) for provenance, tuning distinctions, actual checks and exclusions.
 
 One open course, three objectives, desktop keyboard/mouse. No gamepad, touch controls, audio, swimming, flight, moving platforms, ledge grab, bosses or exact original-game physics. MIT license; Three.js is MIT. Gitignore includes the official GitHub Global Linux, Windows and macOS templates, plus project ignores.
+
+## Play online
+
+[Play on GitHub Pages](https://intrepion.github.io/kata-inspired-by-super-mario-64-codex-dot/). Return to the [Kata Arcade](https://intrepion.github.io/).
