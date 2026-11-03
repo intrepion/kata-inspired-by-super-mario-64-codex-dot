@@ -1,6 +1,27 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-inspired-by-super-mario-64-codex-dot",
   "playUrl": "https://intrepion.github.io/kata-inspired-by-super-mario-64-codex-dot/",
-  "screenshots": []
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/ci-20261103-01.jpg",
+      "sha256": "98ed122989b168f9a1d8e802dcd7f918cc932eec31f925f1b3f6dac57cc94e28",
+      "alt": "Cloudpost Orchard gameplay",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261103-01.png",
+        "sourceSha256": "1b5100617a1c230863ab81a6e40c6502a697a296700dcdae1e2efdcfb1213d1f",
+        "captureCommit": "c6a658c5c6d7c0737e280b9a95850a8e1bac3b24",
+        "workflowRunId": "41619361028",
+        "inputHashes": {
+          "assets/index-B9KzA_Ui.js": "f2a5ff14f3f9a4953cfc6171a745b1d67bfe1353427f34f49fccfc7bb4f55408",
+          "assets/index-Dw3CoXzo.css": "2a39eca9f3c6f8304baafde1ac18037d4f01d5cb5d4d12b4c9c5a9c4d6e2e941",
+          "index.html": "a4717057544799f8706066287bddc3bb779ce37117450a611d46d25bfd8243c2"
+        },
+        "publishedFilesVerifiedAt": "2026-11-03T10:28:50Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261103-record.json",
+        "captureRecordSha256": "83617c66858bd5ca90e7a71ff9278013fd3843c69973c78f1ebf62dff74620ef"
+      }
+    }
+  ]
 }
